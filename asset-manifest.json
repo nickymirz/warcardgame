@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/warcardgame/static/css/main.62b69b9c.chunk.css",
+    "main.js": "/warcardgame/static/js/main.f482ca1d.chunk.js",
+    "main.js.map": "/warcardgame/static/js/main.f482ca1d.chunk.js.map",
+    "runtime-main.js": "/warcardgame/static/js/runtime-main.6aa3d23f.js",
+    "runtime-main.js.map": "/warcardgame/static/js/runtime-main.6aa3d23f.js.map",
+    "static/js/2.210ff24e.chunk.js": "/warcardgame/static/js/2.210ff24e.chunk.js",
+    "static/js/2.210ff24e.chunk.js.map": "/warcardgame/static/js/2.210ff24e.chunk.js.map",
+    "index.html": "/warcardgame/index.html",
+    "precache-manifest.f42ba06afe2f46cb0815704a66ba60b7.js": "/warcardgame/precache-manifest.f42ba06afe2f46cb0815704a66ba60b7.js",
+    "service-worker.js": "/warcardgame/service-worker.js",
+    "static/css/main.62b69b9c.chunk.css.map": "/warcardgame/static/css/main.62b69b9c.chunk.css.map",
+    "static/js/2.210ff24e.chunk.js.LICENSE.txt": "/warcardgame/static/js/2.210ff24e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aa3d23f.js",
+    "static/js/2.210ff24e.chunk.js",
+    "static/css/main.62b69b9c.chunk.css",
+    "static/js/main.f482ca1d.chunk.js"
+  ]
+}
